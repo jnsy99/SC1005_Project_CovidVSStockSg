@@ -2,7 +2,7 @@
 # Finding correlation between Singapore Covid-19 cases and Stock market prices in Singapore and predicting future stock prices 
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on stock prices and covid-19 data in Singapore by Team 3 from SC9.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on stock prices and covid-19 data in Singapore by Team 3 from SC9. Please read the README.txt file first!
 
 
 ## Contributors
@@ -15,7 +15,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. Project code (SC9_Team03.ipynb)
 3. Presentation PowerPoint slides (Presentation Slides ───> SC9_Team03.pdf)
 4. Datasets (Datasets ───> PublicHols2020-2022.xlsx)
-		                  │    
+		    │    
                     └────> covid19_sg.csv )
 
 
