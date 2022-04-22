@@ -11,9 +11,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Joel Tham Yew Hng - LSTM, Dataset Research, Model Evaluation
 
  ## Contents of Codebase
-1. Presentation Video (SC9_Team03.mp4)
+1. Presentation Video (SC9_Team03.mp4) *Please note video is not on github
 2. Project code (SC9_Team03.ipynb)
-3. Presentation PowerPoint slides (SC9_Team03.pptx)
+3. Presentation PowerPoint slides (Presentation Slides ───> SC9_Team03.pdf)
+4. Datasets (Datasets ───> PublicHols2020-2022.xlsx)
+		                  │    
+                    └────> covid19_sg.csv )
+
 
 Thank you and hope you enjoy our project as much as we do!
 
